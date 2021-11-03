@@ -8,7 +8,7 @@ repo untuk tugas ukom website inventaris yang dibuat dengan codeigniter 4
 ![](https://cdn.discordapp.com/attachments/846580672244219910/905281965568168026/Screenshot_79.png)
 
 ## Figima
-![](https://www.figma.com/file/ITmc1VodAT1H0CVL22rZp8/Untitled?node-id=0%3A1)
+https://www.figma.com/file/ITmc1VodAT1H0CVL22rZp8/Untitled?node-id=0%3A1
 
 ## Pembagian Tugas
 ### wahyu hidayat = 1
