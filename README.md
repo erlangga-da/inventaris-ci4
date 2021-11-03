@@ -1,14 +1,14 @@
 # inventaris-ci4
 repo untuk tugas ukom website inventaris yang dibuat dengan codeigniter 4
 
-##Database Diagram
+## Database Diagram
 ![](https://cdn.discordapp.com/attachments/846580672244219910/905311525282144317/uCJcCv3V2AOFE2KowGEGuXF5wR-1lco9s6w-kvVDt0Ai6dh5Hp_QXQleI39Z-QI8ztf8l6Ejs_cUepow1301-h625.png)
 
-##Gambar Pembagian Tugas
+## Gambar Pembagian Tugas
 ![](https://cdn.discordapp.com/attachments/846580672244219910/905281965568168026/Screenshot_79.png)
 
-##Pembagian Tugas
-###wahyu hidayat = 1
-###Wulang Dhanadipa = 2
-###Charles Daniel = 3
-###M. Erlangga Darmawan = 4
+## Pembagian Tugas
+### wahyu hidayat = 1
+### Wulang Dhanadipa = 2
+### Charles Daniel = 3
+### M. Erlangga Darmawan = 4
