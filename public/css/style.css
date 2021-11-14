@@ -1,0 +1,128 @@
+body {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+  letter-spacing: 1.2px;
+}
+
+.container {
+  background-color: hsl(225, 100%, 94%);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+  width: fit-content;
+  height: fit-content;
+  box-shadow: 0px 10px 27px -6px rgba(114, 128, 167, 0.36);
+  -webkit-box-shadow: 0px 10px 27px -6px rgba(114, 128, 167, 0.36);
+  -moz-box-shadow: 0px 10px 27px -6px rgba(114, 128, 167, 0.36);
+}
+
+.container .desc {
+  padding: 55px 45px;
+}
+
+.card-container .desc h1 {
+  color: hsl(223, 47%, 23%);
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+
+form {
+  display: grid;
+}
+form label {
+  font-weight: 600;
+  font-size: 16px;
+  text-align: left;
+}
+form input {
+  box-sizing: border-box;
+  margin: 20px 0px;
+  margin-top: 10px;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  border: 2px solid #eaeaea;
+  color: hsl(224, 23%, 55%);
+  border-radius: 12px;
+  padding: 15px 20px;
+  width: 100%;
+  transition: 0.5s;
+  letter-spacing: 1.4px;
+}
+form input::placeholder {
+  color: #c4c4c4;
+  font-weight: 500;
+  letter-spacing: 1.4px;
+}
+form input:focus {
+  outline: none;
+  border: 2px solid #766cf1;
+  color: #766cf1;
+}
+
+.btn-primary {
+  margin-top: 10px;
+  display: block;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  border-radius: 12px;
+  background: hsl(245, 75%, 52%);
+  color: white;
+  padding: 15px 0px;
+  width: 360px;
+  cursor: pointer;
+  transition: 0.5s;
+  box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, 0.45);
+  -webkit-box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, 0.45);
+  -moz-box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, 0.45);
+}
+.btn-primary:hover {
+  background: #766cf1;
+}
+.btn-primary:focus {
+  outline: none;
+}
+
+.signup {
+  display: block;
+  margin: 30px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-weight: 700;
+  color: hsl(224, 23%, 55%);
+  transition: 0.5s;
+}
+.signup:hover {
+  color: hsl(223, 47%, 23%);
+}
+
+@media screen and (max-width: 530px) {
+  .card-container {
+    width: 90%;
+  }
+  .container .desc {
+    padding: 35px 20px;
+  }
+  .card-container .desc h1 {
+    font-size: 22px;
+  }
+  .btn-primary {
+    width: 100%;
+  }
+  .signup {
+    margin-bottom: 0px;
+  }
+}
