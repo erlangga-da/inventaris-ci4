@@ -20,3 +20,6 @@ https://www.figma.com/file/ITmc1VodAT1H0CVL22rZp8/Untitled?node-id=0%3A1
 ## Trigger
 
 ![image](https://user-images.githubusercontent.com/79314300/141945804-0aef22e9-ace3-46cc-8f06-f33686871e07.png)
+
+## Jalanin Stored Procedure
+https://codeigniter4.github.io/userguide/database/call_function.html
