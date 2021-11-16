@@ -16,6 +16,7 @@ https://www.figma.com/file/ITmc1VodAT1H0CVL22rZp8/Untitled?node-id=0%3A1
 ### Charles Daniel = 3
 ### M. Erlangga Darmawan = 4
 
-##Lib sql
-###Trigger
+
+## Trigger
+
 ![image](https://user-images.githubusercontent.com/79314300/141945804-0aef22e9-ace3-46cc-8f06-f33686871e07.png)
