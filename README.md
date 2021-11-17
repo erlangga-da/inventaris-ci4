@@ -35,3 +35,6 @@ BEGIN
 UPDATE stok SET stok.total_barang=(stok.jml_masuk-stok.jml_keluar) WHERE stok.id_barang=id_barang;
 END;;
 ```
+
+## peminjaman
+![image](https://github.com/erlangga-da/inventaris-ci4/blob/main/Screenshot%20(85).png)
