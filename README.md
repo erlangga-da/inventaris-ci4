@@ -29,7 +29,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdxCOtxZxad89q3RMqP-kB_rV52KHONxliNclLQ
 https://codeigniter4.github.io/userguide/database/call_function.html
 
 ## Stored Function ?
+```
 CREATE PROCEDURE updatestok(id_barang CHAR(8))
 BEGIN
 UPDATE stok SET stok.total_barang=(stok.jml_masuk-stok.jml_keluar) WHERE stok.id_barang=id_barang;
 END;;
+```
